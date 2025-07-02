@@ -1,0 +1,24 @@
+{
+    "name": "Garden Bloom 🌼",
+    "description": "This is a cute girl, a mandi koch with a short temper and extreme vaashi. But once you get to know her, you can't be without her. Soo squishable!",
+    "image": "https://jithin-23.github.io/nft-project/koch1.png",
+    "external_url": "https://github.com/jithin-23/nft-project",
+    "attributes": [
+        {
+            "trait_type": "Art Style",
+            "value": "Digital Illustration"
+        },
+        {
+            "trait_type": "Personality",
+            "value": "Vaashi & Adorable"
+        },
+        {
+            "trait_type": "Temper",
+            "value": "Short"
+        },
+        {
+            "trait_type": "Collection",
+            "value": "Koch Tokens"
+        }
+    ]
+}
