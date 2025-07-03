@@ -1,0 +1,20 @@
+{
+    "name": "Spacebear Commander 🧸🚀",
+    "description": "A fearless leader in the galaxy of cuteness. This Teddybear floats through the stars with courage and charm. Rescue him into your wallet. Built on ethereum-blockchain-developer.com",
+    "image": "https://jithin-23.github.io/nft-project/spacebear_1.jpeg",
+    "external_url": "https://github.com/jithin-23/nft-project",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "Teddybear"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Koch Tokens"
+        },
+        {
+            "trait_type": "Role",
+            "value": "Commander"
+        }
+    ]
+}

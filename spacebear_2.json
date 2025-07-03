@@ -1,0 +1,20 @@
+{
+    "name": "Spacebear Dreamer 🧸🌌",
+    "description": "Lost in dreams among the stars, this Teddybear brings comfort to the cosmos. A dreamy cosmic traveler from ethereum-blockchain-developer.com. Don’t leave him hanging in the void.",
+    "image": "https://jithin-23.github.io/nft-project/spacebear_2.webp",
+    "external_url": "https://github.com/jithin-23/nft-project",
+    "attributes": [
+        {
+            "trait_type": "Artefact", 
+            "value": "Teddybear"
+        },
+        {
+            "trait_type": "Collection", 
+            "value": "Koch Tokens"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Dreamy"
+        }
+    ]
+}
