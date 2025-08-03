@@ -1,0 +1,31 @@
+{
+    "name": "Cool Bunny",
+    "description": "A legendary bunny who is the chillest resident of MintForest. Minted with effortless style and a legendary aura.",
+    "image": "https://jithin-23.github.io/nft-project/nft-forest/bunny5.png",
+    "attributes": [
+      {
+        "trait_type": "Collection",
+        "value": "MintForest"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Bunny"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Cool"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Habitat",
+        "value": "Crystal Lake"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      }
+    ]
+  }

@@ -1,0 +1,32 @@
+{
+    "name": "Sleepy Bunny",
+    "description": "A drowsy bunny who naps under starlit skies in MintForest. Minted with coziness and a sprinkle of dreams.",
+    "image": "https://jithin-23.github.io/nft-project/nft-forest/bunny3.jpeg",
+    "attributes": [
+      {
+        "trait_type": "Collection",
+        "value": "MintForest"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Bunny"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Sleepy"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Lilac"
+      },
+      {
+        "trait_type": "Habitat",
+        "value": "Moonlit Meadow"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      }
+    ]
+  }
+  

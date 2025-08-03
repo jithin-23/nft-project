@@ -1,0 +1,31 @@
+{
+    "name": "Frosty Bunny",
+    "description": "A mystical bunny found in the snow-capped peaks of MintForest. Minted with winter magic and a shimmering spirit.",
+    "image": "https://jithin-23.github.io/nft-project/nft-forest/bunny4.png",
+    "attributes": [
+      {
+        "trait_type": "Collection",
+        "value": "MintForest"
+      },
+      {
+        "trait_type": "Species",
+        "value": "Bunny"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Mystical"
+      },
+      {
+        "trait_type": "Color",
+        "value": "White"
+      },
+      {
+        "trait_type": "Habitat",
+        "value": "Snow Peaks"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      }
+    ]
+  }

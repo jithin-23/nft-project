@@ -1,7 +1,7 @@
 {
-    "name": "Sleepy Bunny",
-    "description": "A drowsy bunny who naps under starlit skies in MintForest. Minted with coziness and a sprinkle of dreams.",
-    "image": "https://jithin-23.github.io/nft-project/nft-forest/bunny2.png",
+    "name": "Brave Bunny",
+    "description": "A courageous bunny who explores the deepest parts of MintForest. Minted with valor and an adventurous heart.",
+    "image": "https://jithin-23.github.io/nft-project/nft-forest/bunny2.jpeg",
     "attributes": [
       {
         "trait_type": "Collection",
@@ -13,20 +13,19 @@
       },
       {
         "trait_type": "Mood",
-        "value": "Sleepy"
+        "value": "Adventurous"
       },
       {
         "trait_type": "Color",
-        "value": "Lilac"
+        "value": "Brown"
       },
       {
         "trait_type": "Habitat",
-        "value": "Moonlit Meadow"
+        "value": "Deep Woods"
       },
       {
         "trait_type": "Rarity",
-        "value": "Rare"
+        "value": "Uncommon"
       }
     ]
   }
-  
